@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Go Horse Drink</string>
+
+    <string name="login">Login</string>
+    <string name="login_usuario">Usuário</string>
+    <string name="login_senha">Senha</string>
+    <string name="login_cadastrar">Cadastrar</string>
+    <string name="cadastro_nome">Nome</string>
+    <string name="cadastro_usuario">Usuario</string>
+    <string name="cadastro_senha">Senha</string>
+</resources>
